@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">KwatroKanto_Final_Project</string>
+    <string name="group_name">kwatro.kanto</string>
+    <string name="sign_up">SIGNUP</string>
+    <string name="log_in">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="loginbtn">LOGIN</string>
+    <string name="signupbtn">SIGNUP</string>
+    <string name="transparentbg">transparentbg</string>
+    <string name="title_here">Title Here</string>
+    <string name="type_whatever_you_want_to_say">Type whatever you want to say...</string>
+    
+    <string name="head_one">How are you \n feeling today?</string>
+    <string name="head_two">Hey, username!</string>
+    <string name="happy">Happy</string>
+    <string name="sad">Sad</string>
+    <string name="angry">Angry</string>
+    <string name="disgusted">Disgusted</string>
+    <string name="scared">Scared</string>
+    <string name="note_title">Title Note</string>
+    <string name="search">Search your mood...</string>
+    <string name="groupName">kwatro.kanto</string>
+    <string name="uOkay_strtr">Are you okay?</string>
+    <string name="tellMeEverything_strtr">TELL ME EVERYTHING</string>
+    <string name="tap_the_screen">tap the screen</string>
+</resources>

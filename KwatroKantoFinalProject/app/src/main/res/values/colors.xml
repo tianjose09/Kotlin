@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#ae94af</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="editTextBg">#FFFFFF</color>
+    <color name="TextStroke">#B25B5B</color>
+    <color name="TextShadow">#33000000</color>
+    <color name="BGColor">#fff9f8</color>
+    <color name="head_two_teal">#8bbab5</color>
+    <color name="bg_scared">#ae94af</color>
+    <color name="bg_happy">#efd1a5</color>
+    <color name="bg_sad">#90b4bf</color>
+    <color name="bg_angry">#B6706C</color>
+    <color name="bg_disgusted">#93AE97</color>
+    <color name="kwatrokanto_fontcolor">#ae94af</color>
+</resources>
